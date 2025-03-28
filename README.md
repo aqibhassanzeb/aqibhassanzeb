@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqib Hassan Zeb</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 💬 Ask me about **Javascript, React, Next, React Native, AngularJS, Angular TS, Node, Express, Stripe,third party api's integrations, MongoDb, Postgres, MySql, AWS(EC2, Loadbalancer, Amplify, SSL certificates, Route53,S3 bucket) , Vercel, Netlify, Heroku, Deployments of web-apps**
 
